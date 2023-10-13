@@ -1,0 +1,16 @@
+#footer {
+    position: relative;
+  }
+.ban-quyen p {
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 650px;
+}
+.ban-quyen a {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 625px;
+    left: 12.5%;
+}
